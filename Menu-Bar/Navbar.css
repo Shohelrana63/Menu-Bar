@@ -1,0 +1,27 @@
+  
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  .navbar{
+    border-bottom: rgb(71, 12, 209) 2px solid ;
+    opacity: 0.8;
+    background:  linear-gradient(to right, #ffae00f3 0%, #caac00 100%); 
+    
+}
+nav .nav-item{
+  color: black! important;
+  font-size: 20px;
+}
+nav .nav-link{
+  margin: 0 10px;
+  
+}
+nav .nav-link:hover{
+  background:  linear-gradient(to right, #00ff73 0%, #00ca00e3 100%); 
+  color: #fff;
+}
+
+  .container{
+    margin-bottom: 100px;
+    
+}
